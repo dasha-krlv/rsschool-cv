@@ -29,11 +29,11 @@ const colors = ["red", "green", "blue", "yellow", "purple"];
 console.log(getRandomElement(colors));
 ```
 ====
-Education:
-Business analysis Course - EPAM 
-Coaching Course - Godel Technologies Europe
+### Education:
++ **Business analysis Course** - EPAM 
++ **Coaching Course** - Godel Technologies Europe
 ====
-Languages:
+### Languages:
 + **Russian** - Native
 + **English** - B2
 + **Polish** - A1
