@@ -19,7 +19,7 @@ I am a self learner, highly critical thinker and highly productive worker. I bel
 + HTML, CSS
 + JavaScript
 + Git, GitHub
-+Visual Studio Code
++ Visual Studio Code
 
 
 ### Code example:
